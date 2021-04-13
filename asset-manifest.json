@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/static/js/main.51f591c6.chunk.js",
+    "main.js.map": "/static/js/main.51f591c6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e34121f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e34121f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f887b90a.chunk.js": "/static/js/2.f887b90a.chunk.js",
+    "static/js/2.f887b90a.chunk.js.map": "/static/js/2.f887b90a.chunk.js.map",
+    "static/js/3.c35815c1.chunk.js": "/static/js/3.c35815c1.chunk.js",
+    "static/js/3.c35815c1.chunk.js.map": "/static/js/3.c35815c1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.f887b90a.chunk.js.LICENSE.txt": "/static/js/2.f887b90a.chunk.js.LICENSE.txt",
+    "static/media/LinkedIn_Logo.a4bb998f.svg": "/static/media/LinkedIn_Logo.a4bb998f.svg",
+    "static/media/epic-profile-picture.a3c569b2.jpg": "/static/media/epic-profile-picture.a3c569b2.jpg",
+    "static/media/resume.85fa37b4.pdf": "/static/media/resume.85fa37b4.pdf",
+    "static/media/summer2018.464ab6f9.png": "/static/media/summer2018.464ab6f9.png",
+    "static/media/vandy2019.42863e1b.jpeg": "/static/media/vandy2019.42863e1b.jpeg",
+    "static/media/volunteerHosptial2017.a152e234.jpg": "/static/media/volunteerHosptial2017.a152e234.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e34121f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f887b90a.chunk.js",
+    "static/js/main.51f591c6.chunk.js"
+  ]
+}
