@@ -9,7 +9,7 @@ import resume from "./assets/resume.pdf";
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route path="/resume">
             <embed
